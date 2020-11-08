@@ -1,0 +1,2 @@
+# vehicle_pedestrian_detection_with_inference_engine
+Vehicle pedestrian detection with OpenVINO inference_engine
